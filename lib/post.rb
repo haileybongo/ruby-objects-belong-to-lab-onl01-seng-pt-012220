@@ -4,4 +4,4 @@ class Post
 
 end
     
-post = Poat.new 
+post = Post.new 
