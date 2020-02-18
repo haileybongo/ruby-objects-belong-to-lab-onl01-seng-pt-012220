@@ -1,9 +1,7 @@
 class Post
   
-  attr_accessor :title, :artist 
-  
-  def initialize(title)
-    @title = title
-  end
+  attr_accessor :title
+
+end
     
-  end
+post = Poat.new 
